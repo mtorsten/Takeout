@@ -1,0 +1,16 @@
+{
+  "title": "photo_without_timestamp.jpg",
+  "description": "This metadata file is missing the photoTakenTime field",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1571673729",
+    "formatted": "Oct 21, 2019, 7:08:49 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  }
+}
